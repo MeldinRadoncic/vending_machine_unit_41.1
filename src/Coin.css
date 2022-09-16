@@ -1,0 +1,15 @@
+ .Coin {
+    text-align: center;
+ }
+
+.Coin img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 100%;
+margin:2rem;
+}
+
+.Coin h3 {
+    text-decoration: none;
+
+}
